@@ -51,7 +51,7 @@ npm run build
 npm start
 ```
 
-Структура проекта
+## Структура проекта
 ```
 appeals-system/
 ├── src/
