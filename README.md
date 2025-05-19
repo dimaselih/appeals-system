@@ -14,7 +14,7 @@ API для управления обращениями с возможность
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/ваш-username/appeals-system.git
+git clone https://github.com/dimaselih/appeals-system.git
 cd appeals-system
 ```
 
